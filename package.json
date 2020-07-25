@@ -1,0 +1,15 @@
+{
+  "name": "@rabama/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.rabama.ir:6331/nima/prettier-config"
+  },
+  "author": "Nima Soufiloo",
+  "license": "ISC"
+}
