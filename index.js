@@ -1,1 +1,1 @@
-module.exports = {  arrowParens: "avoid",  printWidth: 110,  vueIndentScriptAndStyle: true,  trailingComma: "es5",  tabWidth: 2,  semi: true,  singleQuote: false,};
+module.exports = {  arrowParens: "avoid",  printWidth: 110,  vueIndentScriptAndStyle: true,  trailingComma: "es5",  tabWidth: 2,  semi: true,  singleQuote: false,  jsxBracketSameLine: true};
