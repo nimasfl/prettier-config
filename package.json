@@ -1,6 +1,6 @@
 {
   "name": "@rabama/prettier-config",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "prettier configuration",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.rabama.ir:6331/nima/prettier-config"
+    "url": "https://github/nimasfl/prettier-config"
   },
   "author": "Nima Soufiloo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
 }
